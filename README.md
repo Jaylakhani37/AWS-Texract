@@ -51,8 +51,34 @@ The software requirements for the project included:
 - Case 3 :
 	- Input: 10 PDF files of different number of Pages
 	- Expected output : CSV of all that PDF with all the pages processed Actual output : AS Expected
+### Implementation 
+- S3 Buckets for Input and Output
+
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/1.png)
+
+- Lambda Function Basic information
+
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/2.png)
+- Adding Triggers of S3
+ 
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/3.png)
+- IAM Permission For Lambda
+ 
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/4.png)
+- Entering Input PDF
+ 
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/5.png)
+- Getting Output
+ 
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/6.png)
+- Getting CSV as output
+ 
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/7.png)
+- Timeout settings
+
+![image](https://github.com/Jaylakhani37/AWS-Texract/blob/main/Implementation-Images/8.png)
 
 ### References
-[AWS Textract Documentations]([url](https://aws.amazon.com/textract/)) 
-[Stack Overflow]([url](https://stackoverflow.com/))
-[ChatGPT]([url](https://chat.openai.com/)https://chat.openai.com/)
+- [AWS Texract](https://aws.amazon.com/textract/ "AWS Texract")
+- [Stack Overflow](https://stackoverflow.com/ "Stack Overflow")
+- [ChatGPT](https://chat.openai.com/ "ChatGPT")

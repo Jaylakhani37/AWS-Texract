@@ -2,7 +2,7 @@
 ### Study of Existing System & Its Limitations
 The existing system relied on manual data extraction from PDF files, which was time-consuming and
 prone to errors. Lack of automation resulted in inefficient data processing and limited scalability.
-The manual approach also hindered data accessibility and hindered decision-making processes.
+The manual approach also hindered data accessibility and hindered decision-making processes. 
 ### Requirement of New System
 The new system aimed to address the limitations of the existing manual approach by implementing
 AWS Textract. The requirements for the new system were identified as follows:

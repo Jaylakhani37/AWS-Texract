@@ -1,4 +1,4 @@
-# **AWS Texract**
+# **AWS Textract**
 ### Study of Existing System & Its Limitations
 The existing system relied on manual data extraction from PDF files, which was time-consuming and
 prone to errors. Lack of automation resulted in inefficient data processing and limited scalability.
